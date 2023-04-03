@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    margin-top: 1%
+}
+
+.Hola{
+
+}
+body{
+
+    color: white;
+    background-color: #040213;
+    font-family: Gruppo
+    
+}
+
+
+.Fotografo{
+
+position: absolute;
+
+}
+
+.TextoFoto{
+
+    font-size: 140%;
+    position: absolute;
+    margin-left: 21.5%;
+    text-align: right;
+    top: 245%;
+
+}
+.Diseño{
+
+    position: absolute;
+    top: 275%;
+
+}
+
+.TextoDiseño{
+
+    font-size: 140%;
+    position: absolute;
+    top: 295%;
+    text-align: left;
+    margin-left: 17.4%;
+
+}
+
+.Experiencia{
+
+    position: absolute;
+    top: 350%;
+    
+}
+
+.TextoXP{
+
+    font-size: 140%;
+    position: absolute;
+    margin-left: 23.5%;
+    text-align: right;
+    top: 370%
+
+}
+
+.Habilidades{
+   
+    position: absolute;
+    top: 400%
+
+
+}
+
+.TextoHabil{
+
+    font-size: 140%;
+    position: absolute;
+    margin-left: 17.4%;
+    text-align: left;
+    top: 419%
+
+}
+
+.Galeria{
+
+    position: absolute;
+    top: 500%;
+
+}
+
+.GaleriaFotos{
+
+    position: absolute;
+    top: 520%;
+
+}
+
+.DesignGaleria{
+
+    position: absolute;
+    top: 590%;
+    margin-left: 60%;
+}
+
+.DiseñoFotos{
+
+    position: absolute;
+    top: 610%;
+    text-align: center;
+}
+
+.Curriculum{
+
+    position: absolute;
+    top: 710%;
+    text-align: center;
+    transition: 400ms;
+    
+}
+.Curriculum:hover{
+
+    transform: scale(1.13);
+    
+}
+
+.Contacto{
+
+    position: absolute;
+    top: 770%;
+}
+
+
+.Logo1{
+
+    position: absolute;
+    top: 815%;
+    
+    transition: 500ms;
+    text-align: center;
+    font-size: 30px;
+}
+
+.Logo1:hover{
+
+    transform: scale(1.17);
+}
+.Logo2{
+
+    position: absolute;
+    top: 815%;
+    margin-left: 21%;
+    transition: 500ms;
+    text-align: center;
+    font-size: 30px;
+}
+
+.Logo2:hover{
+
+    transform: scale(1.17);
+}
+.Logo3{
+
+    position: absolute;
+    top: 815%;
+    margin-left: 45%;
+    transition: 500ms;
+    text-align: center;
+    font-size: 30px;
+}
+
+.Logo3:hover{
+
+    transform: scale(1.17);
+}
